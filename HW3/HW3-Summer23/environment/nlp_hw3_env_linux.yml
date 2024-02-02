@@ -1,0 +1,18 @@
+name: nlp_hw3
+channels:
+- pytorch
+- defaults
+dependencies:
+- matplotlib
+- numpy
+- scikit-learn
+- notebook
+- jupyterlab
+- scipy
+- pandas
+- nltk
+- bs4
+- pytorch
+- seaborn
+- gensim
+- torchtext

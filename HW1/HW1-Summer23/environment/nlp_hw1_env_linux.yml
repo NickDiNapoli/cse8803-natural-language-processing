@@ -1,0 +1,14 @@
+name: nlp_hw1
+channels:
+- defaults
+dependencies:
+- matplotlib
+- numpy
+- scikit-learn
+- notebook
+- jupyterlab
+- scipy
+- pandas
+- nltk
+- bs4
+- mkl < 2022

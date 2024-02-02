@@ -1,0 +1,13 @@
+name: nlp_hw2
+channels:
+- defaults
+dependencies:
+- matplotlib
+- numpy
+- scikit-learn
+- notebook
+- jupyterlab
+- scipy
+- pandas
+- nltk
+- bs4
